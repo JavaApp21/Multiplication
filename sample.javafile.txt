@@ -1,1 +1,5 @@
 class definitions
+
+adding scond line
+
+add strategy
